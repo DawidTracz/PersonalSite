@@ -1,0 +1,105 @@
+.image{
+
+	margin-top: 10px;
+
+}
+
+.personalcont{
+background-image: url("img/background1.jpeg");
+	background-size: 100%; 
+ background-repeat: repeat-y;
+
+}
+.personalrow{
+	margin-top: 50px;
+}
+
+
+.pl {
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
+}
+
+.pl:hover {
+  -webkit-filter: grayscale(0);
+  filter: none;
+}
+.third{
+padding-left: 0px;
+height: 503.5px;
+}
+
+address{
+	margin-top: 100px;
+color: 
+
+ #000099;
+}
+.buttons{
+	background-color: transparent;
+}
+.myround{
+	border-radius: 50px;
+	height: 358.67px;
+	margin-left: 30px;
+	margin-top: 50px;
+	border: solid 10px black; 
+}
+
+.hrow{
+	background-color: #334d00;
+height: 75px;
+color: #ffffcc;
+}
+
+.fa{
+	color: red;
+	font-size: 100px;
+}
+
+
+.glyphicon{
+	color: red;
+	font-size: 100px;
+}
+
+#myCarousel {
+	height: 600px;
+	margin-left: auto !important;
+margin-right: auto !important;
+}
+
+.slimg{
+	max-height:600px;
+width: auto;
+	margin-left: auto !important;
+margin-right: auto !important;}
+
+
+h1{
+
+font-family: 'Bungee Inline', sans-serif;
+
+}
+
+.navbar{
+	background-color: yellow;
+
+font-family: 'Kanit', sans-serif;
+font-size: 900;
+
+}
+
+.fifth{
+	margin-top: 50px;
+}
+
+.sixth{
+	margin-top: 25px;
+	
+}
+.seven{
+	margin-top: 25px;
+	margin-bottom: 50px;
+}
