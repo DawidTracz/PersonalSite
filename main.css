@@ -1,5 +1,5 @@
 .image{
-	margin-top: 20px;
+	margin-top: 15px;
 }
 body{
 	background-image: url("img/background2.jpg");
@@ -48,10 +48,9 @@ a{
 	font-weight: 100;
 }
 address{
-	margin-top: 100px;
-}
-.buttons{
-	background-color: transparent;
+	font-family: 'Roboto Mono', monospace;
+	margin-top: 115px;
+	font-size: 30px;
 }
 .myround{
 	border-radius: 50px;
@@ -173,4 +172,11 @@ footer{
 }
 .progress-bar{
 background-color: #862d86;
+}
+.imglink{
+	padding: 30px;
+}
+.link{
+margin-left: 5px;
+margin-right: 5px;
 }
