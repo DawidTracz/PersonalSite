@@ -4,7 +4,8 @@
 body{
 	background-image: url("img/background2.jpg");
 	background-size: 100%; 
-	background-repeat: repeat-y;
+	background-repeat: no-repeat;
+	  background-attachment: fixed;
 }
 .navbar{
 	background: rgba(204, 204, 204,  0.5);
