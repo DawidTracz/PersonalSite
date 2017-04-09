@@ -182,7 +182,7 @@ background-color: #862d86;
 margin-left: 5px;
 margin-right: 5px;
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1000px){
 
   *[class*='col-xs-8']{
    margin-bottom: 100px;
